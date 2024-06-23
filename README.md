@@ -14,7 +14,7 @@ In addition to the tools, you would also need to know what dbt is, you can learn
 Clone the git repo as shown below:
 
 ```bash
-git clone https://github.com/josephmachado/simple_dbt_project.git
+git clone https://github.com/ighodaro-daniel/simple_dbt_project.git
 cd simple_dbt_project
 ```
 
